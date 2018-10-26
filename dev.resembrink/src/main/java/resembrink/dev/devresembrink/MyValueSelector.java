@@ -67,8 +67,6 @@ public class MyValueSelector extends RelativeLayout {
 
         }
 
-
-        
         plusButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -105,4 +103,3 @@ public class MyValueSelector extends RelativeLayout {
     }
 
 }
-
